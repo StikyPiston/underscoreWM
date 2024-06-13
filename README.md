@@ -16,15 +16,15 @@ There are various keywords to configure the WM.
 `||` is for a comment.
 
 **Default Config**
-`|| Startup and Onboarding apps
-ras alacritty
-rafb alacritty -e micro ~/.config/underscore/conf.fig
-
-|| Keybindings
-bind Mod4+Return; alacritty
-bind Mod4+Return; wofi --show drun
-
-|| Backdrop and misc stuff and things :D
+`|| Startup and Onboarding apps\n
+ras alacritty\n
+rafb alacritty -e micro ~/.config/underscore/conf.fig\n
+\n
+|| Keybindings\n
+bind Mod4+Return; alacritty\n
+bind Mod4+Return; wofi --show drun\n
+\n
+|| Backdrop and misc stuff and things :D\n
 bgd ~/.config/underscore/default.png`
 
 ## have fun!
