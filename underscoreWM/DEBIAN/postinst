@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ ! -d "$HOME/.config/underscore" ]; then
+    mkdir -p "$HOME/.config/underscore"
+fi
+cp /etc/underscoreWM/conf.fig "$HOME/.config/underscore/conf.fig"
+cp /etc/underscoreWM/default.png "$HOME/.config/underscore/default.png"

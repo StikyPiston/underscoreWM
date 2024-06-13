@@ -1,0 +1,5 @@
+ras alacritty
+rafb alacritty -e micro ~/.config/underscore/conf.fig
+bind Mod4+Return; alacritty
+bgd ~/.config/underscore/default.png
+

@@ -1,0 +1,11 @@
+|| Startup and Onboarding apps
+ras alacritty
+rafb alacritty -e micro ~/.config/underscore/conf.fig
+
+|| Keybindings
+bind Mod4+Return; alacritty
+bind Mod4+Return; wofi --show drun
+
+|| Backdrop and misc stuff and things :D
+bgd ~/.config/underscore/default.png
+

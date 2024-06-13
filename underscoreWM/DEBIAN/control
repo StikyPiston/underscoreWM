@@ -1,0 +1,8 @@
+Package: underscoreWM
+Version: 1.0
+Section: x11
+Priority: optional
+Architecture: all
+Depends: lgi, feh, lua5.3, libcqueue-dev, x11-utils, x11-xserver-utils, alacritty, micro, neofetch, htop, lfm, wofi
+Maintainer: StikyPiston <https://github.com/StikyPiston>
+Description: A simple tiling window manager written in Lua
